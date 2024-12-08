@@ -6,7 +6,7 @@
 安裝方式：
 下載.py檔案 => 開啟blender => 編輯(工具列) => 偏好設定 => 附加元件 => 右上角按鈕 Install from Disk => 選擇下載之*.py檔案
 
-![頂點選取工具_安裝](https://github.com/user-attachments/assets/5c27305b-3775-4a7e-979e-7d54cb734a70)
+![頂點座標工具v1_0_安裝](https://github.com/user-attachments/assets/1abc622d-0e83-48fa-9d5f-5652699374c6)
 
 插件說明：
 
